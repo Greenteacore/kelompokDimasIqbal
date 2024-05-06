@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dowhile {
+public class Modul4CetakDowhile {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int sum = 0;
