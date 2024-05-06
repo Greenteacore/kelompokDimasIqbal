@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CekBilanganPrima {
+public class Modul5CekBilanganPrima {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
