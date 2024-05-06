@@ -1,4 +1,4 @@
-public class Forr {
+public class Modul4CetakLoopForr  {
     public static void main(String[] args) {
         int n = 20; // Jumlah bilangan yang ingin ditampilkan
 
