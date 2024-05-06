@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KonversiSuhu {
+public class Modul5KonversiSuhu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
