@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NamaBulan {
+public class Modul5NamaBulan {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
