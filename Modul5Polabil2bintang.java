@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Polabil2bintang {
+public class Modul5Polabil2bintang {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
         System.out.print("Masukan sebuah angka bulat: ");
