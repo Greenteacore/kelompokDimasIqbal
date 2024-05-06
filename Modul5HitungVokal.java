@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungVokal {
+public class Modul5HitungVokal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
