@@ -1,4 +1,4 @@
-public class PolaSegitigaSikuTerbalik {
+public class Modul4PolaBintangSegitigaSikuTerbalik {
     public static void main(String[] args) {
         int n = 5; // Jumlah baris
 
